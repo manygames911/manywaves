@@ -32,5 +32,5 @@ yarn start
 
 # Скриншоты
 
-![alt text](https://monosnap.com/file/SIyEJfBOlMQvW07f78bHa1hawoR7Qh#)
-![alt text](https://monosnap.com/file/P6ETmelj9wYjN1I7NzCUaWD7xBgrC1#)
+![alt text](screenshots/1.png)
+![alt text](screenshots/2.png)
